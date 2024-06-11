@@ -9,6 +9,7 @@ public class Task5 {
         int x = in.nextInt();
         boolean result = evenInRange(x);        //created function for checking interval 24...32 without odd integers
         System.out.println(result);
+        
     }
 
     public static boolean evenInRange(int x){
