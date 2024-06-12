@@ -11,7 +11,6 @@ public class Task3_4 {
 
         double areaCircle = Math.PI * Math.pow(radius, 2);
 
-        System.out.printf("Are of the circle = " + "%.2f", areaCircle); //print 2 numbers after comma
-
+        System.out.printf("Area of the circle = " + "%.2f", areaCircle); //print 2 numbers after comma
     }
 }
